@@ -1,3 +1,5 @@
+This is a fork of the great work from Alister Scott. I'm using this fork to maintain the user-agent gem and maybe add some improvements in the future.
+
 # Webdriver::User::Agent
 
 A helper gem to emulate populate device user agents and resolutions when using webdriver
